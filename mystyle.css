@@ -1,0 +1,48 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  background-color: purple;
+  font-size: 48px;
+  color: white;
+  text-align: center;
+  padding-top: 15px;   
+  padding-bottom: 15px;
+  text-decoration:
+}
+
+a {
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+	background-color: purple;
+	border-style: solid;
+	border-color: gold;
+	margin: 2px;
+	padding-left: 75px;
+	padding-right: 75px;	  
+}
+
+img {
+	background-color: purple;
+	border-style: solid;
+	border-color: gold;
+	margin-top: 25px;
+	margin-left: 150px;
+	margin-right: 150px;
+	padding: 30px;
+	
+}
+
+p {
+	background-color: purple;
+	border-style: solid;
+	border-color: gold;
+	color: white;
+	margin-left: 150px;
+	margin-right: 190px;
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: center;
+}
